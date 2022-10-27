@@ -1,6 +1,7 @@
 # JSON to BSON Converter
 
-Simple program to convert MongoDB JSON String to MongoDB BSON String.
+Simple Java / Maven program to convert MongoDB JSON String to MongoDB BSON String.
+You need Java 11 and Maven to run it.
 
 Simply put the MongoDB JSON Array into `./src/main/resources/jsonFile.json` file
   
